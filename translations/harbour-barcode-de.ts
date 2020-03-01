@@ -134,7 +134,11 @@
     <message id="settings-history-confirm_resize">
         <source>Confirm resize</source>
         <extracomment>Button label</extracomment>
+<<<<<<< HEAD
         <translation>Änderung bestätigen</translation>
+=======
+        <translation>Änerung bestätigen</translation>
+>>>>>>> 0ff5bc8c8fc5afa53331eba19f475eb547bb2c52
     </message>
     <message id="settings-history-cancel">
         <source>Cancel</source>
@@ -182,7 +186,11 @@
     <message id="history-menu-copy">
         <source>Copy to clipboard</source>
         <extracomment>Context menu item</extracomment>
+<<<<<<< HEAD
         <translation>In die Zwischenablage kopieren</translation>
+=======
+        <translation>In die Zwichenablage kopieren</translation>
+>>>>>>> 0ff5bc8c8fc5afa53331eba19f475eb547bb2c52
     </message>
     <message id="history-menu-delete_remorse">
         <source>Deleting</source>
