@@ -134,7 +134,7 @@
     <message id="settings-history-confirm_resize">
         <source>Confirm resize</source>
         <extracomment>Button label</extracomment>
-        <translation>Änerung bestätigen</translation>
+        <translation>Änderung bestätigen</translation>
     </message>
     <message id="settings-history-cancel">
         <source>Cancel</source>
@@ -144,7 +144,7 @@
     <message id="settings-marker-section">
         <source>Marker</source>
         <extracomment>Section header</extracomment>
-        <translation>Markierung</translation>
+        <translation>Markierungen</translation>
     </message>
     <message id="settings-marker-slider_label">
         <source>Mark detected code</source>
@@ -182,7 +182,7 @@
     <message id="history-menu-copy">
         <source>Copy to clipboard</source>
         <extracomment>Context menu item</extracomment>
-        <translation>In die Zwichenablage kopieren</translation>
+        <translation>In die Zwischenablage kopieren</translation>
     </message>
     <message id="history-menu-delete_remorse">
         <source>Deleting</source>
