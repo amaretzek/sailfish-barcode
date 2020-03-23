@@ -6,7 +6,7 @@ Name:       harbour-barcode
 %{?qtc_builddir:%define _builddir %qtc_builddir}
 
 Summary:    Code Reader
-Version:    1.0.22
+Version:    1.0.23
 Release:    1
 Group:      Applications/Productivity
 License:    Mixed
@@ -21,6 +21,7 @@ BuildRequires:  pkgconfig(Qt5Multimedia)
 BuildRequires:  pkgconfig(Qt5Concurrent)
 BuildRequires:  pkgconfig(Qt5DBus)
 BuildRequires:  pkgconfig(mlite5)
+BuildRequires:  pkgconfig(glib-2.0)
 BuildRequires:  desktop-file-utils
 BuildRequires:  qt5-qttools-linguist
 
